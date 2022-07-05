@@ -1,4 +1,4 @@
-<h1 align="center">I'm Tia Saxena👩🏽‍💻👩🏻</h1>
+<h1 align="center">Hi 👋, I'm Tia Saxena👩🏽‍💻</h1>
 <h3 align="center">Hopping in the tech world!</h3>
 
 ![gitartwork](gitartwork.svg)
