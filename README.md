@@ -2,7 +2,8 @@
 <h3 align="center">Hopping in the tech world!</h3>
 
 ![gitartwork](gitartwork.svg)
-<br>
+<br/>
+<br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiasaxena&label=Profile%20views&color=0e75b6&style=flat" alt="tiasaxena" /> </p>
 
