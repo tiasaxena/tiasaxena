@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **React, JavaScript**
 
-- ⚡ Fun fact **I'm mostly confused when super excited.**
+- ⚡ Fun fact **Mostly sane while hunting JS bugs🤯**
 
 - 📫 How to reach me
 
