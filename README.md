@@ -2,8 +2,7 @@
 <h3 align="center">Hopping in the tech world!</h3>
 
 ![gitartwork](gitartwork.svg)
-<br/>
-<br/>
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiasaxena&label=Profile%20views&color=0e75b6&style=flat" alt="tiasaxena" /> </p>
 
@@ -48,7 +47,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiasaxena&theme=omni&show)](https://github.com/tiasaxena/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tiasaxena&theme=radical)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tiasaxena&theme=radical)](https://git.io/streak-stats) -->
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=tiasaxena&theme=radical)](https://git.io/streak-stats"></img>
 
 <br/>
 <hr/>
