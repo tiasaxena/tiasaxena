@@ -58,4 +58,4 @@
   <img src="https://github.com/tiasaxena/tiasaxena/blob/output/github-contribution-grid-snake.svg" alt = "snake-svg"/>
 </div>
 
-<h align="center"> 🤩Feel free to appreciate my work🤩 </h>
+<p align="center"> 🤩Feel free to appreciate my work🤩 </p>
