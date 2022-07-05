@@ -43,17 +43,14 @@
 <hr/>
 <br/>
 
-[![Cm4ndns's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cm4ndns&theme=radical&show)](https://github.com/tiasaxena/github-readme-stats)
+[![tiasaxena's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiasaxena&theme=radical&show)](https://github.com/tiasaxena/github-readme-stats)
 <hr/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Cm4ndns&theme=radical&show" alt = "snake-svg"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiasaxena&theme=omni&show)](https://github.com/tiasaxena/github-readme-stats)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cm4ndns&theme=omni&show)](https://github.com/Cm4ndns/github-readme-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Cm4ndns&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tiasaxena&theme=radical)](https://git.io/streak-stats)
 
 <div  align = "center">
   <p>Watch a snake 🐍 eating my GitHub contributions😯</p>
-  <img src="https://github.com/Cm4ndns/Cm4ndns/blob/output/github-contribution-grid-snake.svg" alt = "snake-svg"/>
+  <img src="https://github.com/tiasaxena/tiasaxena/blob/output/github-contribution-grid-snake.svg" alt = "snake-svg"/>
 </div>
