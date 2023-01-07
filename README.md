@@ -40,7 +40,7 @@
   </a>
 </p>
 <br/>
-- 🌐 <a href="https://tiasaxena.co" target="blank">https://tiasaxena.co/</a>
+- 🌐 <a href="[https://tiasaxena.co](https://tiasaxena.github.io/Portfolio/)" target="blank">https://tiasaxena.co/</a>
 <br/>
 <hr/>
 <br/>
