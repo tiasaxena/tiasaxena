@@ -8,7 +8,7 @@
 
 <img align = "right" src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47k5e3xmpd6m4dvu906z3mvoo6ovh3o6muqeyus7lm&rid=giphy.gif&ct=g" alt = "snake-svg"/>
 
-- 🌱 I’m into **MERN Stack Development & AI ENgineering**
+- 🌱 I’m into **MERN Stack Development & AI Engineering**
 
 - 👯 I’m looking to collaborate on **awesome project with awesome folks**
 
